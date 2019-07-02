@@ -1,7 +1,7 @@
 # Distance
 Run `node main.js`
 
-2 - test
+`2 - test
 4 5 - dimention
 0000 - input data
 0000
@@ -18,4 +18,4 @@ Run `node main.js`
 0100
 0 1 1 0
 1 0 1 1
-Program complete.
+Program complete.`
